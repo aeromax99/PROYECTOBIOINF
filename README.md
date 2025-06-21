@@ -20,4 +20,4 @@ IGV por si se quiere visualizar
 
 # Q4: FOTOGRAFIA 
 
-![AXOLOTE](https://axolote.yolasite.com/resources/ajolote_mexicano.jpg)
+![AXOLOTE](https://upload.wikimedia.org/wikipedia/commons/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg)
