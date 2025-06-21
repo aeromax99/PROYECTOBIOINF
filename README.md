@@ -18,4 +18,4 @@ IGV por si se quiere visualizar
 
 ##Q4: FOTOGRAFIA 
 
-![AXOLOTE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.axolotlsaustralia.com.au%2Fproduct%2Fwhite-leucistic-axolotl%2F&psig=AOvVaw0U8iqDezAXIbhnbuU8yMxZ&ust=1750561355087000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjTkvvRgY4DFQAAAAAdAAAAABAE)
+![AXOLOTE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.miwuki.com%2Fque-es-un-axolote-todo-sobre-este-gracioso-animalito&psig=AOvVaw1EDZsJFCSA3x1ipjskAI7w&ust=1750565347740000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICPxLrSgY4DFQAAAAAdAAAAABAU)
