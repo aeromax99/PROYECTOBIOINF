@@ -1,4 +1,4 @@
-# Mapeo de genes regenerativos de _Ambystoma mexicanum_ y comparación con genes humanos
+# Mapeo de genes regenerativos de _Ambystoma mexicanum_ y comparación con genoma humano
 
 ### Autor: Andrés Murillo
 Email: afmurilloy@puce.edu.ec
@@ -10,24 +10,21 @@ Email: afmurilloy@puce.edu.ec
  Principales genes Prrx1,Evi5, TGF-B
  
 
-## Program Work Flow
+## Programas requeridos
 
-1. Bajar el genoma con 
+- EDirect
+- BWA
+- Samtools
+- BEDTools
+- BLAST+
 
-wget ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/002/915/635/GCA_002915635.3_AmbMex60DD/GCA_002915635.3_AmbMex60DD_genomic.fna.gz
-gunzip GCA_002915635.3_AmbMex60DD_genomic.fna.gz
+## Program WorkFlow
+
+## Instrucciones 
+
+## Resultado esperado
 
 
-# Q3: Programas a usar
-
-El programa de samtools 
-programa bwa
-trimmomatic
-IGV por si se quiere visualizar
-
-# Q4: FOTOGRAFIA 
-
-![AXOLOTE](https://upload.wikimedia.org/wikipedia/commons/1/1e/Ambystoma_mexicanum_%286337857516%29.jpg)
 
 # BIBLIOGRAFÍA 
 Tobón, N. A. A., Arellano, G. E. C., & Jiménez, O. V. (2021). Ambystoma mexicanum, la importancia de esta especie en la medicina regenerativa y estrategias para su conservación. RD-ICUAP, 1-16.
