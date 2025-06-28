@@ -20,6 +20,9 @@ Email: afmurilloy@puce.edu.ec
 
 ## Program WorkFlow
 
+![DIAGRAMA](imag/diagrama.png)
+
+
 ## Instrucciones 
 
 ## Resultado esperado
