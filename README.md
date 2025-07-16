@@ -1,4 +1,4 @@
-# Detección de variantes en el gen FLC en plantas como _Arabidopsis thaliana_ y _Capsella rubella_
+# Detección de variantes en el gen FT en plantas como _Brassica incana_, _Brassica oleracea_ y _Brassica macrocarpa_
 
 -----------------------------------
 
@@ -80,6 +80,7 @@ Luego de correr el programa se espera obtener los siguientes archivos:
 Esto es un ejemplo de como debería verse los resultados en IGV. Las partes grises muestra que la lectura esta alineada y que coincide perfectamente con la secuencia de referencia.
 Los demas colores marcan bases individuales que NO coinciden con la referencia en esa posición.Estos colores te indican posibles SNPs, que también suelen coincidir con las variantes marcadas en el archivo .vcf.
 Si una especie muestra variantes que otras no tienen, esto sugiere diferencias genéticas que podrían afectar la función o regulación del gen FT. Además, el histograma gris de cobertura indica cuántas lecturas cubren cada posición: una cobertura alta valida las variantes, mientras que zonas vacías pueden señalar regiones ausentes o mal secuenciadas. Así, este mapeo permite comparar la secuencia del gen FT entre especies y detectar cambios que podrían estar relacionados con diferencias en el tiempo de floración.
+
 ------------------------------------
 
 # Agradecimientos
